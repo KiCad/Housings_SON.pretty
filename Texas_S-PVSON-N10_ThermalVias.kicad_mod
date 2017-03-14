@@ -1,4 +1,4 @@
-(module Texas_S-PVSON-N10_ThermalVias (layer F.Cu) (tedit 58C73BAC)
+(module Texas_S-PVSON-N10_ThermalVias (layer F.Cu) (tedit 58C7B7B8)
   (descr "10-Lead Plastic DFN, 3x3mm Body, 0.5mm Pitch, S-PVSON-N10, http://www.ti.com/lit/ds/symlink/lm5165.pdf")
   (tags "DFN 0.5 S-PVSON-N10")
   (attr smd)
@@ -85,6 +85,7 @@
     (solder_paste_margin -0.05))
   (pad 10 smd oval (at 1.55 -1) (size 0.65 0.4) (layers F.Cu F.Paste F.Mask)
     (solder_paste_margin -0.05))
+  (pad 11 smd rect (at -0.001 0) (size 1.65 2.4) (layers B.Cu B.Mask))
   (model ${KISYS3DMOD}/Housings_SON.3dshapes/Texas_S-PVSON-N10.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
