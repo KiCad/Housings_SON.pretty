@@ -28,7 +28,7 @@
   (pad 4 smd rect (at 0.57 0.5 270) (size 0.28 0.75) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 0.57 0 270) (size 0.28 0.75) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at 0.57 -0.5 270) (size 0.28 0.75) (layers F.Cu F.Paste F.Mask))
-  (model Housings_SON.3dshapes/WSON6_1.5x1.5mm_Pitch0.5mm.wrl
+  (model ${KISYS3DMOD}/Housings_SON.3dshapes/WSON6_1.5x1.5mm_Pitch0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
