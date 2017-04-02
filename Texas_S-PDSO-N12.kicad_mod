@@ -1,8 +1,6 @@
 (module Texas_S-PDSO-N12 (layer F.Cu) (tedit 58D1493A)
   (descr http://www.ti.com/lit/ds/symlink/bq27441-g1.pdf)
   (tags "SON thermal pads")
-  (solder_mask_margin 0.05)
-  (solder_paste_margin -0.1)
   (attr smd)
   (fp_text reference REF** (at -0.000701 -2.517393) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
