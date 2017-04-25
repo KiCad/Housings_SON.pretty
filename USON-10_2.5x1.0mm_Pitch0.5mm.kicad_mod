@@ -31,7 +31,7 @@
   (pad 7 smd rect (at 0.5 -0.385) (size 0.3 0.55) (layers F.Cu F.Paste F.Mask))
   (pad 10 smd rect (at -1 -0.385) (size 0.3 0.55) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at 0 -0.385) (size 0.4 0.55) (layers F.Cu F.Paste F.Mask))
-  (model Housings_SON.3dshapes/USON_10_2.5x1.0mm_Pitch0.5mm.wrl
+  (model Housings_SON.3dshapes/USON-10_2.5x1.0mm_Pitch0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
