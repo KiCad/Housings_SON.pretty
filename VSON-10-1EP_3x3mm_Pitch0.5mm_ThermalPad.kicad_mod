@@ -52,4 +52,9 @@
   (pad 11 thru_hole circle (at 0.5 -0.75) (size 0.6 0.6) (drill 0.3) (layers *.Cu *.Mask))
   (pad 11 thru_hole circle (at 0.5 0.75) (size 0.6 0.6) (drill 0.3) (layers *.Cu *.Mask))
   (pad 11 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu *.Mask))
+  (model Housings_SON.3dshapes/VSON-10-1EP_3x3mm_Pitch0.5mm_ThermalPad.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
