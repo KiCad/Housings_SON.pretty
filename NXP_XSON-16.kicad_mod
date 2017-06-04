@@ -1,6 +1,6 @@
-(module NXP_XSON-16_2.5x3.2mm_Pitch0.4mm (layer F.Cu) (tedit 59340BE1)
+(module NXP_XSON-16 (layer F.Cu) (tedit 59340BE1)
   (descr http://www.nxp.com/documents/outline_drawing/SOT1341-1.pdf)
-  (tags "NXP XSON SOT1341")
+  (tags "NXP XSON SOT-1341")
   (attr smd)
   (fp_text reference REF** (at 0 3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -44,7 +44,7 @@
   (pad 11 smd rect (at 0.885 0.6) (size 1.07 0.22) (layers F.Cu F.Paste F.Mask))
   (pad 10 smd rect (at 0.885 1) (size 1.07 0.22) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at 0.885 1.4) (size 1.07 0.22) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Housings_SON.3dshapes/NXP_XSON-16_2.5x3.2mm_Pitch0.4mm.wrl
+  (model ${KISYS3DMOD}/Housings_SON.3dshapes/NXP_XSON-16.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
