@@ -102,7 +102,7 @@
   (pad 13 smd rect (at -1.1 -1.365 270) (size 0.575 0.4) (layers F.Cu F.Paste F.Mask))
   (pad 13 smd rect (at -1.1 1.365 270) (size 0.575 0.4) (layers F.Cu F.Paste F.Mask))
   (model ${KISYS3DMOD}/Housings_SON.3dshapes/Texas_S-PDSO-N12.wrl
-    (at (xyz -0.0000275984 -0.0001026378 0))
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
