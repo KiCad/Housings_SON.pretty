@@ -1,4 +1,4 @@
-(module VSON-10-1EP_3x3mm_Pitch0.5mm_ThermalPad (layer F.Cu) (tedit 58CBB9B6)
+(module VSON-10-1EP_3x3mm_Pitch0.5mm_ThermalPad (layer F.Cu) (tedit 59380F63)
   (descr "VSON 10 Thermal on 11 3x3mm Pitch 0.5mm")
   (tags "VSON 10 Thermal on 11 3x3mm Pitch 0.5mm")
   (attr smd)
@@ -8,8 +8,8 @@
   (fp_text value VSON-10-1EP_3x3mm_Pitch0.5mm_ThermalPad (at 0 3) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text user %R (at 0 -2.9) (layer F.Fab)
-    (effects (font (size 1 1) (thickness 0.15)))
+  (fp_text user %R (at 0 0) (layer F.Fab)
+    (effects (font (size 0.8 0.8) (thickness 0.1)))
   )
   (fp_line (start -1.5 -0.5) (end -0.5 -1.5) (layer F.Fab) (width 0.1))
   (fp_line (start -1.6 -1.5) (end -2 -1.5) (layer F.SilkS) (width 0.12))
@@ -52,7 +52,7 @@
   (pad 11 thru_hole circle (at 0.5 -0.75) (size 0.6 0.6) (drill 0.3) (layers *.Cu *.Mask))
   (pad 11 thru_hole circle (at 0.5 0.75) (size 0.6 0.6) (drill 0.3) (layers *.Cu *.Mask))
   (pad 11 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu *.Mask))
-  (model Housings_SON.3dshapes/VSON-10-1EP_3x3mm_Pitch0.5mm_ThermalPad.wrl
+  (model ${KISYS3DMOD}/Housings_SON.3dshapes/VSON-10-1EP_3x3mm_Pitch0.5mm_ThermalPad.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
