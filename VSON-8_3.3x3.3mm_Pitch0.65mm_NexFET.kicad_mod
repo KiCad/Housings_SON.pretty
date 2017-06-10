@@ -1,5 +1,5 @@
 (module VSON-8_3.3x3.3mm_Pitch0.65mm_NexFET (layer F.Cu) (tedit 59380FB9)
-  (descr "8-Lead Plastic Dual Flat, No Lead Package (MF) - 3.3x3.3x1 mm Body [VSON]")
+  (descr "8-Lead Plastic Dual Flat, No Lead Package (MF) - 3.3x3.3x1 mm Body [VSON] http://www.ti.com/lit/ds/symlink/csd87334q3d.pdf")
   (tags "VSON 0.65")
   (attr smd)
   (fp_text reference REF** (at 0 -2.8) (layer F.SilkS)

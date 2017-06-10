@@ -1,5 +1,5 @@
 (module WSON-16_3.3x1.35_Pitch0.4mm (layer F.Cu) (tedit 5939482C)
-  (descr "WSON-16 3.3 x 1.35mm  Pitch 0.4mm")
+  (descr "WSON-16 3.3 x 1.35mm  Pitch 0.4mm http://www.chip.tomsk.ru/chip/chipdoc.nsf/Package/C67E729A4D6C883A4725793E004C8739!OpenDocument")
   (tags "WSON-16 3.3 x 1.35mm  Pitch 0.4mm")
   (attr smd)
   (fp_text reference REF** (at -0.004943 -3) (layer F.SilkS)
