@@ -1,5 +1,5 @@
 (module X2SON-8_1.4x1mm_Pitch0.35mm (layer F.Cu) (tedit 59394854)
-  (descr "X2SON-8 1.4x1mm Pitch0.35mm")
+  (descr "X2SON-8 1.4x1mm Pitch0.35mm http://www.ti.com/lit/ds/symlink/pca9306.pdf")
   (tags "X2SON-8 1.4x1mm Pitch0.35mm")
   (attr smd)
   (fp_text reference REF** (at 0 -2) (layer F.SilkS)

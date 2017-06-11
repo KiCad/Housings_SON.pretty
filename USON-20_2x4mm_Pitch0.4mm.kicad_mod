@@ -1,5 +1,5 @@
 (module USON-20_2x4mm_Pitch0.4mm (layer F.Cu) (tedit 59394804)
-  (descr "USON-20 2x4mm Pitch 0.4mm")
+  (descr "USON-20 2x4mm Pitch 0.4mm http://www.ti.com/lit/ds/symlink/txb0108.pdf")
   (tags "USON-20 2x4mm Pitch 0.4mm")
   (attr smd)
   (fp_text reference REF** (at 0 -3.5) (layer F.SilkS)

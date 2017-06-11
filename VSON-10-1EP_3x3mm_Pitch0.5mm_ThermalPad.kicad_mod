@@ -1,5 +1,5 @@
 (module VSON-10-1EP_3x3mm_Pitch0.5mm_ThermalPad (layer F.Cu) (tedit 59380F63)
-  (descr "VSON 10 Thermal on 11 3x3mm Pitch 0.5mm")
+  (descr "VSON 10 Thermal on 11 3x3mm Pitch 0.5mm http://chip.tomsk.ru/chip/chipdoc.nsf/Package/D8A64DD165C2AAD9472579400024FC41!OpenDocument")
   (tags "VSON 10 Thermal on 11 3x3mm Pitch 0.5mm")
   (attr smd)
   (fp_text reference REF** (at 0 -2.9) (layer F.SilkS)
