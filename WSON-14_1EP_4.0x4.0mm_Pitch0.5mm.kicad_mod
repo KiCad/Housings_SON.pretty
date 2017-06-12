@@ -1,5 +1,5 @@
 (module WSON-14_1EP_4.0x4.0mm_Pitch0.5mm (layer F.Cu) (tedit 593E7A76)
-  (descr http://www.ti.com/lit/ml/mpds421/mpds421.pdf)
+  (descr "14-Lead Plastic Dual Flat, No Lead Package - 4.0x4.0x0.8 mm Body [WSON], http://www.ti.com/lit/ml/mpds421/mpds421.pdf")
   (tags NHL014B)
   (attr smd)
   (fp_text reference REF** (at 0.027363 -3.153276) (layer F.SilkS)
