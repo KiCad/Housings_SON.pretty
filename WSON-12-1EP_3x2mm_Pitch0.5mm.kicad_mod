@@ -1,11 +1,11 @@
-(module WSON-12_3x2mm_Pitch0.5mm (layer F.Cu) (tedit 59C793F6)
+(module WSON-12-1EP_3x2mm_Pitch0.5mm (layer F.Cu) (tedit 59D6A79E)
   (descr "WSON-12 http://www.ti.com/lit/ds/symlink/lm27762.pdf")
   (tags WSON-12)
   (attr smd)
   (fp_text reference REF** (at 0.635 -2.667) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value WSON-12_3x2mm_Pitch0.5mm (at 0 2.921) (layer F.Fab)
+  (fp_text value WSON-12-1EP_3x2mm_Pitch0.5mm (at 0 2.921) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.7 -0.5) (end -1.7 -2) (layer F.SilkS) (width 0.12))
@@ -37,7 +37,7 @@
   (pad 11 smd rect (at 0.95 -0.75) (size 0.5 0.25) (layers F.Cu F.Paste F.Mask))
   (pad 12 smd rect (at 0.95 -1.25) (size 0.5 0.25) (layers F.Cu F.Paste F.Mask))
   (pad 13 smd rect (at 0 0) (size 1 2.65) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Housings_SON.3dshapes/WSON-12_3x2mm_Pitch0.5mm.wrl
+  (model ${KISYS3DMOD}/Housings_SON.3dshapes/WSON-12-1EP_3x2mm_Pitch0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
