@@ -1,4 +1,4 @@
-(module WSON-12-1EP_3x2mm_Pitch0.5mm (layer F.Cu) (tedit 59D6A79E)
+(module WSON-12-1EP_3x2mm_Pitch0.5mm (layer F.Cu) (tedit 59D7B228)
   (descr "WSON-12 http://www.ti.com/lit/ds/symlink/lm27762.pdf")
   (tags WSON-12)
   (attr smd)
@@ -36,7 +36,9 @@
   (pad 10 smd rect (at 0.95 -0.25) (size 0.5 0.25) (layers F.Cu F.Paste F.Mask))
   (pad 11 smd rect (at 0.95 -0.75) (size 0.5 0.25) (layers F.Cu F.Paste F.Mask))
   (pad 12 smd rect (at 0.95 -1.25) (size 0.5 0.25) (layers F.Cu F.Paste F.Mask))
-  (pad 13 smd rect (at 0 0) (size 1 2.65) (layers F.Cu F.Paste F.Mask))
+  (pad 13 smd rect (at 0 0) (size 1 2.65) (layers F.Cu F.Mask))
+  (pad 13 smd rect (at 0 0.685) (size 0.95 1.17) (layers F.Cu F.Paste))
+  (pad 13 smd rect (at 0 -0.685) (size 0.95 1.17) (layers F.Cu F.Paste))
   (model ${KISYS3DMOD}/Housings_SON.3dshapes/WSON-12-1EP_3x2mm_Pitch0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
